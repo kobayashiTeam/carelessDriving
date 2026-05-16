@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "com.ramtype0.meshia.mesh-simplification": {
+      "version": "3.0.0"
+    }
+  },
+  "locked": {
+    "com.ramtype0.meshia.mesh-simplification": {
+      "version": "3.0.0",
+      "dependencies": {
+        "com.anatawa12.custom-localization-for-editor-extension": "^1.2.1"
+      }
+    },
+    "com.anatawa12.custom-localization-for-editor-extension": {
+      "version": "1.2.1"
+    }
+  }
+}

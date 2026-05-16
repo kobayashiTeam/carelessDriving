@@ -1,0 +1,17 @@
+{
+    "name": "com.anatawa12.custom-localization-for-editor-extension.samples.editor-only",
+    "references": [
+        "com.anatawa12.custom-localization-for-editor-extension"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

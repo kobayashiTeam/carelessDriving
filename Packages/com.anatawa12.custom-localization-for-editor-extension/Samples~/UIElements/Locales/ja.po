@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Language: ja\n"
+
+msgid "some label"
+msgstr "翻訳されるラベル"
+
+msgid "locale:ja"
+msgstr "日本語"

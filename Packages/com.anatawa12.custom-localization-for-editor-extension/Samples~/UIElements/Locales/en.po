@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+
+msgid "some label"
+msgstr "Some Localized Label"
+
+msgid "locale:en"
+msgstr "English"

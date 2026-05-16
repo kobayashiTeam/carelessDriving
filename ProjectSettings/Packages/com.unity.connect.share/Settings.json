@@ -1,0 +1,11 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/marim/OneDrive/デスクトップ/untiy/carelessDriving_itch6;C:/Users/marim/OneDrive/デスクトップ/untiy/carelessDriving_itch5;C:/Users/marim/OneDrive/デスクトップ/untiy/carelessDriving_itch4;C:/Users/marim/OneDrive/デスクトップ/untiy/carelessDriving_itch3;C:/Users/marim/OneDrive/デスクトップ/untiy/carelessDriving_itch2;C:/Users/marim/OneDrive/デスクトップ/untiy/carelessDriving_itch;C:/Users/marim/OneDrive/デスクトップ/untiy/carelessDriving_noConpression;C:/Users/marim/OneDrive/デスクトップ/untiy/carelessDriving_kanseihin;;\"}"
+            }
+        ]
+    }
+}
