@@ -67,4 +67,8 @@ Skybox切替/Emissionによるヒント強調/ライトマップ差し替え
 
 Unity 600.2.6f2/C#/URP
 
+youtube:
+
+https://www.youtube.com/watch?v=lvIM5bT4LlY
+
 
